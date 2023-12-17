@@ -34,7 +34,7 @@ def escolha_aleatoria():
     else:
         return "tesoura"
 
-# A funcoes tem variaveis diferentes, nao sao globais para todos os codigos.
+
 
 def vitoria_jogador(jog,rob):
     
